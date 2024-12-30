@@ -1,0 +1,37 @@
+        .team {
+         width: 85%;
+         margin: 50px ;
+         padding: 30px;
+         text-align: center;
+      }
+      .team-header h1 {
+         color: #333;
+         margin-bottom: 20px;
+      }
+        table {
+            width: 85% ;
+            margin: 50px ;
+            text-align: center;
+            border: 4px;
+            background-color: #F39C12;
+        }
+       th {
+         background-color: lightyellow;
+         font-weight: bold;
+         border-radius: 15px;
+         padding: 30px;
+      }
+       td {
+         background-color: lightyellow;
+         padding: 20px;
+         text-align: center;
+         border-radius: 15px;
+      }
+       td:hover {
+         background-color: #f0f0f5;
+      }
+        th, td {
+            border: 2px ; 
+            border-color: #F39C12;
+            padding: 12px;
+        }
